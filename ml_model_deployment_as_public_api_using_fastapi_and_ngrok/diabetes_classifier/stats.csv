@@ -1,0 +1,2 @@
+,model,best_score,best_params
+0,logistic_regression,0.7788617886178862,"{'penalty': 'l1', 'solver': 'liblinear'}"
