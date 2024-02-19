@@ -2,7 +2,7 @@
 This repository contains the source code of the project where I trained and deployed diabetes prediction model as public api on heroku.This public api url takes following inputs to be posted as json : pregnancies,glucose,blood_pressure,skin_thickness,insulin,bmi,dpf and age, and returns classification result and score as response. 
 <br>
 <br>
-For heroku deployment steps are simple : 
+For Heroku Deployment, steps are simple : 
 <br>
 <br>
 1- upload your api creation using fastapi python files (i.e. main.py,utils.py here), ml model file, requirements.txt, Procfile, and runtime.txt on your github repository.
